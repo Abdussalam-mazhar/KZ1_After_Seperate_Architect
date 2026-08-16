@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KZ1.Architect_Seperate.props" />
+</Project>

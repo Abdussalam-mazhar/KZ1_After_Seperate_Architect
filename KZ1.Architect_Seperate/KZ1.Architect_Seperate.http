@@ -1,0 +1,6 @@
+@KZ1.Architect_Seperate_HostAddress = http://localhost:5190
+
+GET {{KZ1.Architect_Seperate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

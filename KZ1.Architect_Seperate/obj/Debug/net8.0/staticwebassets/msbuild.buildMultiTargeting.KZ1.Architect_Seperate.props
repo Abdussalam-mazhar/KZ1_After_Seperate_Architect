@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KZ1.Architect_Seperate.props" />
+</Project>
